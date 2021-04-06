@@ -17,3 +17,4 @@ I made use of ConversationHandler to handle the different states of a conversati
 Fantastic Guide by tbhaxor - https://github.com/guides-to/BUILDING-TELEGRAM-BOT-IN-PYTHON </br>
 Truth or Dare Qns - Scrapped from https://improb.com/best-truth-or-dare-questions/ </br>
 Handling multiple callback queries with conversation builder - https://stackoverflow.com/questions/41195822/multiple-callback-query-handlers
+If you want to deploy this, you can use https://www.pythonanywhere.com/
